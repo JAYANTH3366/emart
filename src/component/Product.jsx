@@ -35,6 +35,7 @@ const Product = () => {
                 <div className="col-md-6" style={{lineHeight:2}}>
                     <Skeleton height={50} width={300} />
                     <Skeleton height={75} />
+                    
                     <Skeleton height={25} width={150} />
                     <Skeleton height={50} />
                     <Skeleton height={150} />
